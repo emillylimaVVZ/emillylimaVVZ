@@ -1,9 +1,9 @@
 ## 𝒀𝑶 𝑬𝑽𝑬𝑹𝒀𝑶𝑵𝑬 ! 👋
 
-#### About me: 
+### About me: 
 
-### Estudante de Gestão da Informação, me especializando e criando projetos no mundo do Front-End. Nas horas vagas, brinco de Designer no Photoshop 😝 
-### Se achegue!
+#### Estudante de Gestão da Informação, me especializando e criando projetos no mundo do Front-End. Nas horas vagas, brinco de Designer no Photoshop 😝 
+##### Chega mais!
 
 
 ### Details:
