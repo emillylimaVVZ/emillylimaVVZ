@@ -13,3 +13,10 @@
 ### Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emillylimaVVZ&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Most Used Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emillylimaVVZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
