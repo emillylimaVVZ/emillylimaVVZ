@@ -2,7 +2,7 @@
 
 ### About me: 
 
-#### Estudante de Gestão da Informação na Universidade Federal de Pernambuco, ao mesmo tempo estudando e criando projetos no mundo do Front-End. Nas horas vagas, brinco de Designer no Photoshop 😝 
+#### Estudante de Gestão da Informação na Universidade Federal de Pernambuco, ao mesmo tempo estudando e criando projetos no mundo do Front-End. Nas horas vagas, brinco de Design no Photoshop 😝 
 ##### Chega mais!
 
 
