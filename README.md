@@ -2,7 +2,7 @@
 
 ### About me: 
 
-#### Estudante de Gestão da Informação na Universidade Federal de Pernambuco. Estudante Back-End pela formação do Instituto Aliança, Com.Domínio Digital 4.0.
+#### Estudante de Gestão da Informação na Universidade Federal de Pernambuco. Estudante de Back-End do Instituto Aliança, Com.Domínio Digital 4.0.
 Estudando e criando projetos no mundo do Front-End e Back. 🤙 
 ##### Chega mais!
 
