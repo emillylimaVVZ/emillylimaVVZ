@@ -11,10 +11,8 @@ Estudando e criando projetos no mundo do Front-End e Back. 🤙
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emillylimaVVZ&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projects:
-
 ### Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emillylimaVVZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Projects:
